@@ -1,0 +1,16 @@
+{% load add_attr %}
+{% for field in form %}
+  <div class="mb-3">
+    {{ field.label_tag }}
+    {% if filed.errors %}
+      {{ field|add_attr:'class:is-invalid' }}
+    {% else %}
+      {{ field }}
+    {% endif %}
+    <div class="invalid-feedback">
+      {% for error in field.error %}
+        {{ error }}
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}

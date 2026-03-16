@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pylint-django = "*"
+requests = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+openpyxl = "*"
+playwright = "*"
+django = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
