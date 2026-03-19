@@ -1,44 +1,41 @@
-Web Automation & Django Project
-📌 Overview
+# My Web Automation & Scraping Portfolio
 
-This repository contains a combination of web scraping/automation scripts and a Django-based web project.
+## 📌 Overview
+This repository showcases **my personal work** in web automation and web scraping.  
+It includes scripts I developed to automate tasks, extract data from websites, and organize files.
 
-📂 Project Structure
+---
 
-Scripts/
+## 📂 My Projects
 
-This folder contains all my web scraping and automation scripts.
+### Automation & Scraping Scripts
+These are the projects I created and fully implemented:
 
-It includes projects built using tools like Playwright and BeautifulSoup.
+- **Automation_Script.py** – A script I developed to automate repetitive tasks.  
+- **Playwright_scraper.py** – A web scraper built with **Playwright** for automated browser interactions.  
+- **Web_scraping_bs4.py** – A web scraper using **BeautifulSoup** for extracting structured data from websites.  
+- **Disorganized files/** – A folder I used to **test and validate my automation script**.
 
-These scripts are used for extracting data, automating tasks, and experimenting with web technologies.
+> These scripts demonstrate my ability to write Python code for automation, scraping, and file management.
 
-Other folders/files
+---
 
-The rest of the project corresponds to a Django web application that I developed.
+## ⚙️ Technologies & Tools
+- **Python** – Core programming language for scripts.  
+- **Playwright** – Automation and browser interaction framework.  
+- **BeautifulSoup** – HTML parsing and web scraping.  
 
-It includes the backend logic, templates, and configuration required to run the web app.
+---
 
-⚙️ Technologies Used
+## 🚀 Key Skills Demonstrated
+- Writing reusable and efficient **Python scripts**.  
+- Automating workflows and data extraction tasks.  
+- Handling and organizing files programmatically.  
+- Implementing web scraping tools with different frameworks.  
 
-Python
+---
 
-Django
-
-Playwright
-
-BeautifulSoup
-
-🚀 Purpose
-
-The goal of this repository is to:
-
-Practice and improve web scraping and automation skills
-
-Develop web applications using Django
-
-Organize different types of projects in a single place
-
-📬 Notes
-
-This repository is a mix of learning projects and practical implementations.
+## 📬 Notes
+- All scripts in this repository are **my original work**.  
+- The folder `Disorganized files` shows how my automation scripts handle real-world test cases.  
+- This repository is a **showcase of my coding abilities**, suitable for potential employers or collaborators.
